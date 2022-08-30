@@ -5,5 +5,20 @@
 - 📫 You can reach me by e-mail: a.pavlova@data-devops.ru, mob. and WhatsApp +79219452013
 
 Languages and tools: 
-#github #git #python #pandas #scikit-learn #numpy #linux #jira #postgresql #sql #mysql #redash #tableau #powerbi
+- github 
+- git 
+- python 
+- pandas 
+- scikit-learn 
+- matplotlib
+- keras
+- numpy 
+- linux 
+- jira 
+- postgresql 
+- sql 
+- mysql 
+- redash 
+- tableau 
+- powerbi
 
