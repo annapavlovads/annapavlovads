@@ -5,5 +5,5 @@
 - 📫 You can reach me by e-mail: a.pavlova@data-devops.ru, mob. and WhatsApp +79219452013
 
 Languages and tools: 
-![photo_2022-08-26_06-45-34](https://user-images.githubusercontent.com/106023319/187476598-43fe10c6-cc2e-45ac-99f0-10dfdaeff5bb.jpg)
+#github #git #python #pandas #scikit-learn #numpy #linux #jira #postgresql #sql #mysql #redash #tableau #powerbi
 
