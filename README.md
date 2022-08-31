@@ -7,5 +7,5 @@
 ### Languages and tools:
 
 `python` `pandas` `scikit-learn` `catboost` `lightgbm` `sklearn` `plotly` `numpy` `scikit-learn` `keras` `catboost` `lightgbm` `sklearn`
-`Jupyter Notebook` `github` `git` `Jupyter Notebook` `jira` `postgresql` `sql` `mysql` `redash` `tableau` `powerbi` `excel`
+`jupyter notebook` `jupyter hub` `github` `git` `jira` `postgresql` `sql` `mysql` `redash` `tableau` `powerbi` `excel` 
 
