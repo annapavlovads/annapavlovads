@@ -11,6 +11,6 @@
 
 ### Diplomas and certificates:
 
-[Yandex.Praktikum](https://disk.yandex.ru/i/XmKw15KfHhWiUQ)<br>
+[Yandex. Praktikum](https://disk.yandex.ru/i/XmKw15KfHhWiUQ)<br>
 [Stepik Academy](https://stepik.org/users/53844029/certificates)<br>
 
