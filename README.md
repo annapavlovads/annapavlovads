@@ -9,5 +9,8 @@
 `python` `pandas` `scikit-learn` `catboost` `lightgbm` `sklearn` `plotly` `numpy` `scikit-learn` `keras` `catboost` `lightgbm` `sklearn`
 `jupyter notebook` `jupyter hub` `github` `git` `jira` `postgresql` `sql` `mysql` `redash` `tableau` `powerbi` `excel` 
 
-|[Диплом Яндекс.Практикум](https://disk.yandex.ru/i/XmKw15KfHhWiUQ)<br> |
+### Diplomas and certificates:
+
+|[Диплом Яндекс.Практикум](https://disk.yandex.ru/i/XmKw15KfHhWiUQ)<br>
+|[Диплом Яндекс.Практикум](https://disk.yandex.ru/i/XmKw15KfHhWiUQ)<br>
 
