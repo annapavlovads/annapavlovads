@@ -4,21 +4,8 @@
 - 💞️ I speak English, Russian and Deutsch.
 - 📫 You can reach me by e-mail: a.pavlova@data-devops.ru, mob. and WhatsApp +79219452013
 
-Languages and tools: 
-- github 
-- git 
-- python 
-- pandas 
-- scikit-learn 
-- matplotlib
-- keras
-- numpy 
-- linux 
-- jira 
-- postgresql 
-- sql 
-- mysql 
-- redash 
-- tableau 
-- powerbi
+### Languages and tools:
+
+`python` `pandas` `scikit-learn` `catboost` `lightgbm` `sklearn` `plotly` `numpy` `scikit-learn` `keras` `catboost` `lightgbm` `sklearn`
+`Jupyter Notebook` `github` `git` `Jupyter Notebook` `jira` `postgresql` `sql` `mysql` `redash` `tableau` `powerbi` `excel`
 
