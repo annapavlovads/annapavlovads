@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anna. I'm located in Saint-Petersburg, Russia. 
 - 👀 I’m Master of Economics, interested in Data Science, Machine Learning and Big Data.
-- 🌱 I’m currently studying at Machine Learning skill-improvement programm at Karpov.Courses and I have also graduated from Yandex.Praktikum (Data Science)
-- 💞️ I speak English, Russian and Deutsch.
+- 🌱 I’m currently studying at Machine Learning skill-improvement programm at Karpov.Courses and I have also graduated from Yandex.Praktikum (Data Science). I speak English(Upper Intermediate), Russian(Native) and Deutsch(Elementary).
 - 📫 You can reach me by e-mail: a.pavlova@data-devops.ru, mob. and WhatsApp +79219452013
 
 ### Languages and tools:
