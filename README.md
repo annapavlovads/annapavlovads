@@ -13,3 +13,7 @@
 [Yandex. Praktikum](https://disk.yandex.ru/i/XmKw15KfHhWiUQ)<br>
 [Stepik Academy](https://stepik.org/users/53844029/certificates)<br>
 
+### CV:
+
+[Data Scientist - на русском языке](https://disk.yandex.ru/d/mrITmrpPFnx-sA)
+
