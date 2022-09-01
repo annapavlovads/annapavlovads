@@ -17,3 +17,5 @@
 
 [Data Scientist - на русском языке](https://disk.yandex.ru/d/mrITmrpPFnx-sA)
 
+[My portfolio of real Data-Science business cases](https://github.com/annapavlovads/ds_projects)
+- If You are an HR specialist and are looking for an employee, please let me know and I will provide you the private access
