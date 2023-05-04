@@ -6,12 +6,13 @@
 ### Languages and tools:
 
 `python` `pandas` `scikit-learn` `catboost` `lightgbm` `sklearn` `plotly` `numpy` `scikit-learn` `keras` `catboost` `lightgbm` `sklearn`
-`jupyter notebook` `jupyter hub` `github` `git` `jira` `postgresql` `sql` `mysql` `redash` `tableau` `powerbi` `excel` 
+`jupyter notebook` `jupyter hub` `github` `git` `jira` `postgresql` `sql` `mysql` `redash` `tableau` `excel` `clickhouse`
 
 ### Diplomas and certificates:
 
 [Yandex. Praktikum](https://disk.yandex.ru/i/XmKw15KfHhWiUQ)<br>
 [Stepik Academy](https://stepik.org/users/53844029/certificates)<br>
+[Karpov.Courses]
 
 ### CV:
 ----
