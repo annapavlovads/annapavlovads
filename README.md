@@ -21,4 +21,4 @@
 [My portfolio of real DA business cases](https://github.com/annapavlovads/DA_portfolio). <br>
 [My portfolio of real Data Science business cases](https://github.com/annapavlovads/DS_portfolio).<br><br>
 
-If You are an HR looking for a Data Science specialist, please let me know to get the access to this private repository. 
+If You are an HR looking for a Data Science specialist, please let me know to get the access to my private business-cases repository as well. 
