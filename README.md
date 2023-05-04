@@ -5,8 +5,8 @@
 
 ### Languages and tools:
 
-`python` `pandas` `scikit-learn` `catboost` `lightgbm` `sklearn` `plotly` `numpy` `scikit-learn` `keras` `catboost` `lightgbm` `sklearn`
-`jupyter notebook` `jupyter hub` `github` `git` `jira` `postgresql` `sql` `mysql` `redash` `tableau` `excel` `clickhouse`
+`python` `pandas` `scikit-learn` `catboost` `lightgbm` `sklearn` `plotly` `numpy` `scikit-learn` `keras` `pytorch`
+`jupyter notebook` `pycharm` `bash` `git` `postgresql` `sql` `mysql` `redash` `tableau` `excel` `clickhouse` `linux`
 
 ### Diplomas and certificates:
 
