@@ -14,8 +14,10 @@
 [Stepik Academy](https://stepik.org/users/53844029/certificates)<br>
 
 ### CV:
+----
 
-[Data Scientist - на русском языке](https://disk.yandex.ru/d/mrITmrpPFnx-sA)
+### Portfolio:
+[My portfolio of real DA business cases](https://github.com/annapavlovads/DA_portfolio). 
+[My portfolio of real Data Science business cases](https://github.com/annapavlovads/DS_portfolio).
 
-[My portfolio of real Data-Science business cases](https://github.com/annapavlovads/ds_projects). 
 If You are an HR looking for a Data Science specialist, please let me know to get the access to this private repository. 
