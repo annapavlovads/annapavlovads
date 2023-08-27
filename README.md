@@ -3,11 +3,11 @@
 - 🌱 I have also graduated from [Yandex.Praktikum](https://practicum.yandex.ru/profile/data-scientist) and Machine Learning skill-improvement programm at [Karpov.Courses](https://karpov.courses/). I speak English (Upper Intermediate), Russian (Native) and Deutsch (Basic).
 - 📫 You can reach me by e-mail: a.pavlova@data-devops.ru, mob. and WhatsApp +79219452013, [Telegram](https://t.me/AnnaPavlovaDS)
 
-### Languages and tools:
+### Languages, libraries, tools and skills:
 
 `python` `pandas` `scikit-learn` `catboost` `lightgbm` `sklearn` `plotly` `numpy` `scikit-learn` `keras` `pytorch`
 `jupyter notebook` `pycharm` `bash` `git` `postgresql` `sql` `mysql` `redash` `tableau` `excel` `clickhouse` `linux`
-`superset` `gitlab ci/cd` `beautiful soup` `docker` `apache airflow` 
+`superset` `gitlab ci/cd` `beautiful soup` `docker` `apache airflow` `ab-tests`
 
 ### Diplomas and certificates:
 
