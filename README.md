@@ -11,9 +11,12 @@
 
 ### Diplomas and certificates:
 
-[Yandex. Praktikum](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FДИПЛОМЫ%20и%20ДОКУМЕНТЫ%20%2FAnna%20Pavlova_20222DS00197.pdf&name=Anna%20Pavlova_20222DS00197.pdf&uid=208800741&nosw=1)<br>
-[Stepik Academy](https://stepik.org/users/53844029/certificates)<br>
-[Karpov.Courses]()
+[Yandex. Praktikum DS Certificate EN](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FДИПЛОМЫ%20и%20ДОКУМЕНТЫ%20%2FAnna%20Pavlova_20222DS00197.pdf&name=Anna%20Pavlova_20222DS00197.pdf&uid=208800741)<br>
+[Yandex. Praktikum DS Certificate RUS](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FДИПЛОМЫ%20и%20ДОКУМЕНТЫ%20%2FПавлова%20Анна%20Андреевна_20222DS00197.pdf&name=Павлова%20Анна%20Андреевна_20222DS00197.pdf&uid=208800741&nosw=1)<br>
+[Stepik Academy Certificates RUS](https://stepik.org/users/53844029/certificates)<br>
+[Yandex.Praktikum Math Certificate RUS](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FДИПЛОМЫ%20и%20ДОКУМЕНТЫ%20%2FAnna%20Pavlova_20232MDA00024.pdf&name=Anna%20Pavlova_20232MDA00024.pdf&uid=208800741&nosw=1)<br>
+[Karpov.Courses ML Certificate EN ](https://disk.yandex.ru/i/F0XqVSKudgTmMA)
+[Karpov.Courses ML Certificate RUS ](https://disk.yandex.ru/i/VwJicnpZOfC7Xw)
 
 ### CV:
 ---- 
