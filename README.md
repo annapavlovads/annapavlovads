@@ -19,7 +19,7 @@
 [Stepik Academy Certificates RUS](https://stepik.org/users/53844029/certificates)
 
 ### CV | Резюме:
-[Data Analyst | Аналитик данных]
+[Data Analyst | Аналитик данных] <br>
 [Data Scientist]
 
 ### Portfolio | Портфолио :
