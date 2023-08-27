@@ -22,7 +22,7 @@
 ---- 
 
 ### Portfolio:
-[My portfolio of DA business cases, code and visualisations](https://github.com/annapavlovads/DA_portfolio). <br>
-[My portfolio of Data Science research and ML models](https://github.com/annapavlovads/DS_portfolio).<br><br>
+[My portfolio of DA business cases, code and visualisations](https://github.com/annapavlovads/DA_portfolio) <br>
+[My portfolio of Data Science research and ML models](https://github.com/annapavlovads/DS_portfolio)<br><br>
 
 If You are an HR looking for a Data Science specialist, please let me know to get the access to my private DS repository as well. 
