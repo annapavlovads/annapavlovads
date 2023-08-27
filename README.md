@@ -3,13 +3,13 @@
 - 🌱 I have also graduated from [Yandex.Praktikum](https://practicum.yandex.ru/profile/data-scientist) and Machine Learning skill-improvement programm at [Karpov.Courses](https://karpov.courses/). I speak English (Upper Intermediate), Russian (Native) and Deutsch (Basic).
 - 📫 You can reach me by e-mail: a.pavlova@data-devops.ru, mob. and WhatsApp +79219452013, [Telegram](https://t.me/AnnaPavlovaDS)
 
-### Languages, libraries, tools and skills:
+### Languages, libraries, tools and skills | Библиотеки и инструменты :
 
 `python` `pandas` `scikit-learn` `catboost` `lightgbm` `sklearn` `plotly` `numpy` `scikit-learn` `keras` `pytorch`
 `jupyter notebook` `pycharm` `bash` `git` `postgresql` `sql` `mysql` `redash` `tableau` `excel` `clickhouse` `linux`
 `superset` `gitlab ci/cd` `beautiful soup` `docker` `apache airflow` `ab-tests` `telegram-bot`
 
-### Diplomas and certificates:
+### Diplomas and certificates | Дипломы и сертификаты :
 
 [Yandex. Praktikum DS Certificate EN](https://drive.google.com/file/d/1y492Yh2_KMLBz6OpsgWrbqJwZLqk7A7c/view?usp=sharing)<br>
 [Yandex. Praktikum DS Certificate RUS](https://drive.google.com/file/d/14KGYoyjqFNbdTbnrFKWjXno6b6C6BwF7/view?usp=sharing)<br>
@@ -21,8 +21,8 @@
 ### CV:
 ---- 
 
-### Portfolio:
-[My portfolio of DA business cases, code and visualisations](https://github.com/annapavlovads/DA_portfolio) <br>
-[My portfolio of Data Science research and ML models](https://github.com/annapavlovads/DS_portfolio)<br><br>
+### Portfolio | Портфолио :
+[My portfolio of DA business cases, code and visualisations | Портфолио Аналитика данных: бизнес-кейсы, код и визуализации](https://github.com/annapavlovads/DA_portfolio) <br>
+[My portfolio of Data Science research and ML models | Портфолио Data Science: исследования и модели машинного обучения](https://github.com/annapavlovads/DS_portfolio)<br><br>
 
 If You are an HR looking for a Data Science specialist, please let me know to get the access to my private DS repository as well. 
