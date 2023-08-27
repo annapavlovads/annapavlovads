@@ -20,7 +20,7 @@
 [Stepik Academy Certificates RUS](https://stepik.org/users/53844029/certificates)
 
 ### CV | Резюме:
-[Data Analyst EN](https://drive.google.com)| [Аналитик данных RUS](https://drive.google.com)<br>
+[Data Analyst EN](https://drive.google.com) | [Аналитик данных RUS](https://drive.google.com)<br>
 [Data Scientist EN](https://drive.google.com) | [Data Scientist RUS](https://drive.google.com)
 
 ### Portfolio | Портфолио :
