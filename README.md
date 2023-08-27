@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anna. I'm Marketing Data Analyst located in Saint-Petersburg, Russia. 
 - 👀 I’m Master of Economics, educated in Data Science, Machine Learning and Big Data.
 - 🌱 I have also graduated from [Yandex.Praktikum](https://practicum.yandex.ru/profile/data-scientist) and Machine Learning skill-improvement programm at [Karpov.Courses](https://karpov.courses/). I speak English (Upper Intermediate), Russian (Native) and Deutsch (Basic).
-- 📫 You can reach me by e-mail: a.pavlova@data-devops.ru, mob. and WhatsApp +79219452013, [Telegram](https://t.me/AnnaPavlovaDS)
+- 📫 Контакты | Please contact me by e-mail: a.pavlova@data-devops.ru, mob. and WhatsApp +79219452013, [Telegram](https://t.me/AnnaPavlovaDS)
 
 ### Languages, libraries, tools and skills | Библиотеки и инструменты :
 
@@ -18,11 +18,12 @@
 [Karpov.Courses ML Certificate RUS ](https://drive.google.com/file/d/1OZ_Q6VyjClg9x69aRg2XTpcoq_EvdAt_/view?usp=share_link)<br>
 [Stepik Academy Certificates RUS](https://stepik.org/users/53844029/certificates)
 
-### CV:
----- 
+### CV | Резюме:
+[Data Analyst | Аналитик данных]
+[Data Scientist]
 
 ### Portfolio | Портфолио :
-[My portfolio of DA business cases, code and visualisations | Портфолио Аналитика данных: бизнес-кейсы, код и визуализации](https://github.com/annapavlovads/DA_portfolio) <br>
-[My portfolio of Data Science research and ML models | Портфолио Data Science: исследования и модели машинного обучения](https://github.com/annapavlovads/DS_portfolio)<br><br>
+[DA business cases, code and visualisations | Аналитика данных: бизнес-кейсы, код и визуализации](https://github.com/annapavlovads/DA_portfolio) <br>
+[Data Science research and ML models | Data Science: исследования и модели машинного обучения](https://github.com/annapavlovads/DS_portfolio)<br><br>
 
 If You are an HR looking for a Data Science specialist, please let me know to get the access to my private DS repository as well. 
