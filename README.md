@@ -20,8 +20,8 @@
 [Stepik Academy Certificates RUS](https://stepik.org/users/53844029/certificates)
 
 ### CV | Резюме:
-[Data Analyst | Аналитик данных] <br>
-[Data Scientist]
+[Data Analyst EN] | [Аналитик данных RUS]<br>
+[Data Scientist EN] | [Data Scientist RUS]
 
 ### Portfolio | Портфолио :
 [DA business cases, code and visualisations | Аналитика данных: бизнес-кейсы, код и визуализации](https://github.com/annapavlovads/DA_portfolio) <br>
