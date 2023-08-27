@@ -7,7 +7,7 @@
 
 `python` `pandas` `scikit-learn` `catboost` `lightgbm` `sklearn` `plotly` `numpy` `scikit-learn` `keras` `pytorch`
 `jupyter notebook` `pycharm` `bash` `git` `postgresql` `sql` `mysql` `redash` `tableau` `excel` `clickhouse` `linux`
-`superset` `gitlab ci/cd` `beautiful soup` `docker` `apache airflow` `ab-tests`
+`superset` `gitlab ci/cd` `beautiful soup` `docker` `apache airflow` `ab-tests` `telegram-bot`
 
 ### Diplomas and certificates:
 
