@@ -19,8 +19,7 @@
 [Stepik Academy Certificates RUS](https://stepik.org/users/53844029/certificates)
 
 ### CV | Резюме:
-[Data Analyst EN](https://drive.google.com) | [Аналитик данных RUS](https://drive.google.com)<br>
-[Data Scientist EN](https://drive.google.com) | [Data Scientist RUS](https://drive.google.com)
+[Data Analyst EN](https://drive.google.com) | [Аналитик данных RUS](https://drive.google.com)
 
 ### Portfolio | Портфолио :
 [DA business cases, code and visualisations | Аналитика данных: бизнес-кейсы, код и визуализации](https://github.com/annapavlovads/DA_portfolio) <br>
@@ -28,4 +27,4 @@
 
 [GIT.LAB page](https://git.lab.karpov.courses/an-pavlova/portfolio_da_ds)
 
-If You are an HR looking for a Data Science specialist, please let me know to get the access to my private DS repository as well. 
+If You are an HR looking for a Data Analyst, please let me know to get the access to my private DS repository as well. 
