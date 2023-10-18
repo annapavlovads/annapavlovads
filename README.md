@@ -7,7 +7,7 @@
 ### Библиотеки и инструменты | Languages, libraries and tools :
 `python` `pandas` `scikit-learn` `catboost` `lightgbm` `sklearn` `plotly` `numpy` `scikit-learn` `keras` `pytorch`
 `jupyter notebook` `pycharm` `bash` `git` `postgresql` `sql` `mysql` `redash` `tableau` `excel` `clickhouse` `linux`
-`superset` `gitlab ci/cd` `beautiful soup` `docker` `apache airflow` `ab-tests` `telegram-bot`
+`superset` `gitlab ci/cd` `beautiful soup` `docker` `apache airflow` `ab-tests` `telegram-bot` `fast api` `yandex метрика`
 
 ### Резюме | CV :
 [Аналитик данных RUS](https://drive.google.com) | [Аналитик данных HH-RUS](https://drive.google.com) | [Data Analyst EN](https://drive.google.com)
