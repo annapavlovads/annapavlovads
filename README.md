@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anna. I'm Marketing Data Analyst located in Saint-Petersburg, Russia. 
 - I’m Master of Economics, educated in Data Science, Machine Learning and Big Data.
-- 🌱 I have also graduated from [Yandex.Praktikum](https://practicum.yandex.ru/profile/data-scientist) and Machine Learning skill-improvement programm at [Karpov.Courses](https://karpov.courses/).
+- 🌱 I have also graduated from [Yandex.Praktikum](https://practicum.yandex.ru/profile/data-scientist), Data Analysis and Machine Learning skill-improvement programms at [Karpov.Courses](https://karpov.courses/).
 - I speak English (C1), Russian (Native), Deutsch (A2), Spanish (A1).
 - 📫 Контакты | Please contact me by e-mail: a.pavlova@data-devops.ru, mob. and WhatsApp +79219452013, [Telegram](https://t.me/AnnaPavlovaDS)
 
