@@ -14,8 +14,7 @@
 
 ### Портфолио | Portfolio :
 [Аналитика данных: бизнес-кейсы, код и визуализация данных | Data Analytics cases, code and visualisations](https://github.com/annapavlovads/DA_portfolio) <br>
-[Data Science и модели машинного обучения | Data Science and ML](https://github.com/annapavlovads/DS_code)<br><br>
-
+[Data Science и модели машинного обучения | Data Science and ML](https://github.com/annapavlovads/DS_code)<br>
 [GIT.LAB page](https://git.lab.karpov.courses/an-pavlova/portfolio_da_ds)
 
 ### Дипломы и сертификаты | Diplomas and certificates :
