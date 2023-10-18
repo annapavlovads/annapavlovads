@@ -23,8 +23,8 @@
 [Аналитик данных RUS](https://drive.google.com) | [Аналитик данных HH-RUS](https://drive.google.com) | [Data Analyst EN](https://drive.google.com)
 
 ### Portfolio | Портфолио :
-[Data Analytics business cases, code and visualisations | Аналитика данных: бизнес-кейсы, код и визуализации](https://github.com/annapavlovads/DA_portfolio) <br>
-[Data Science and ML | Data Science и модели машинного обучения](https://github.com/annapavlovads/DS_code)<br><br>
+Аналитика данных: бизнес-кейсы, код и визуализация данных | Data Analytics cases, code and visualisations](https://github.com/annapavlovads/DA_portfolio) <br>
+[Data Science и модели машинного обучения | Data Science and ML](https://github.com/annapavlovads/DS_code)<br><br>
 
 [GIT.LAB page](https://git.lab.karpov.courses/an-pavlova/portfolio_da_ds)
 
