@@ -2,7 +2,7 @@
 - I’m Master of Economics, educated in Data Science, Machine Learning and Big Data.
 - 🌱 I have also graduated from [Yandex.Praktikum](https://practicum.yandex.ru/profile/data-scientist), Data Analysis and Machine Learning skill-improvement programms at [Karpov.Courses](https://karpov.courses/).
 - I speak English (C1), Russian (Native), Deutsch (A2), Spanish (A1).
-- 📫 Контакты | Please contact me by e-mail: a.pavlova@data-devops.ru, mob. and WhatsApp +79219452013, [Telegram](https://t.me/AnnaPavlovaDS)
+- 📫 Контакты | Please contact me: `a.pavlova@data-devops.ru`, mob./WhatsApp `+79219452013`, [Telegram](https://t.me/AnnaPavlovaDS)
 
 ### Библиотеки и инструменты | Languages, libraries and tools :
 `python` `pandas` `scikit-learn` `catboost` `lightgbm` `sklearn` `plotly` `numpy` `scikit-learn` `keras` `pytorch`
