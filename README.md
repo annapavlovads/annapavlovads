@@ -13,13 +13,13 @@
 ### Diplomas and certificates | Дипломы и сертификаты :
 
 [Yandex. Praktikum DS Certificate EN](https://drive.google.com/file/d/1y492Yh2_KMLBz6OpsgWrbqJwZLqk7A7c/view?usp=sharing) | [Yandex. Praktikum DS Certificate RUS](https://drive.google.com/file/d/14KGYoyjqFNbdTbnrFKWjXno6b6C6BwF7/view?usp=sharing)<br>
-[Yandex.Praktikum Math Certificate RUS](https://drive.google.com/file/d/1u7n1LtuBNKsclhvaB0e--oGOUz8bry3B/view?usp=sharing)<br>
+[Yandex.Praktikum Math Certificate ENG](https://drive.google.com/file/d/1u7n1LtuBNKsclhvaB0e--oGOUz8bry3B/view?usp=sharing)<br>
 [Karpov.Courses DA Certificate EN](https://drive.google.com/file/d/1oAmbDiimraaNaxu1Ps9wK2oobTOBzRrt/view?usp=sharing) | [Karpov.Courses Сертификат (Аналитика данных) RUS](https://drive.google.com/file/d/1a9dKDEVsUSPcHWEGoP4KH4qLlIkSvObN/view?usp=sharing) <br>
 [Karpov.Courses ML Certificate EN ](https://drive.google.com/file/d/1OLVy3HchmdksYIUCDCAfsK1-bGq-EDbU/view?usp=share_link) | [Karpov.Courses ML Certificate RUS ](https://drive.google.com/file/d/1OZ_Q6VyjClg9x69aRg2XTpcoq_EvdAt_/view?usp=share_link)<br>
 [Stepik Academy Certificates RUS](https://stepik.org/users/53844029/certificates)
 
 ### CV | Резюме:
-[Data Analyst EN](https://drive.google.com) | [Аналитик данных RUS](https://drive.google.com)
+[Аналитик данных RUS](https://drive.google.com) | [Аналитик данных HH-RUS](https://drive.google.com) | [Data Analyst EN](https://drive.google.com)
 
 ### Portfolio | Портфолио :
 [Data Analytics business cases, code and visualisations | Аналитика данных: бизнес-кейсы, код и визуализации](https://github.com/annapavlovads/DA_portfolio) <br>
