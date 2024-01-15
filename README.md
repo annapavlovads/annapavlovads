@@ -13,7 +13,7 @@
 [Аналитик данных RUS](https://drive.google.com) | [Аналитик данных HH-RUS](https://drive.google.com) | [Data Analyst EN](https://drive.google.com)
 
 ### Портфолио | Portfolio :
-[Аналитика данных | Data Analytics](https://github.com/annapavlovads/DA_portfolio) <br>
+[Data Analytics](https://github.com/annapavlovads/DA_portfolio) <br>
 [Data Science, ML](https://github.com/annapavlovads/DS_code)<br>
 [GIT.LAB page](https://git.lab.karpov.courses/an-pavlova/portfolio_da_ds)
 
