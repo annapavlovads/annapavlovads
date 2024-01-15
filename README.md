@@ -10,7 +10,7 @@
 `superset` `gitlab ci/cd` `beautiful soup` `docker` `apache airflow` `ab-tests` `telegram-bot` `fast api` `yandex метрика`
 
 ### Резюме | CV :
-[Аналитик данных RUS](https://drive.google.com) | [Аналитик данных HH-RUS](https://drive.google.com) | [Data Analyst EN](https://drive.google.com)
+[Аналитик данных RUS](https://drive.google.com) | [Аналитик данных HeadHunter.ru RUS](https://drive.google.com) 
 
 ### Портфолио | Portfolio :
 [Data Analytics](https://github.com/annapavlovads/DA_portfolio) <br>
