@@ -31,4 +31,4 @@
 [Project Management - Проектное управление RUS](https://drive.google.com/file/d/1fKzhvjz1lktRzczGRNW_prxyZyI1R_vF/view?usp=sharing)<br>
 [Stepik Academy Certificates RUS](https://stepik.org/users/53844029/certificates)
 
-If You are an HR looking for a Data Analyst, please let me know to get the access to my private DS repository as well. 
+__ If You are an HR looking for a Data Analyst, please let me know to get the access to my private DS repository as well. __
