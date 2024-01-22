@@ -17,7 +17,8 @@
 `superset` `gitlab ci/cd` `beautiful soup` `docker` `apache airflow` `ab-tests` `telegram-bot` `fast api` `yandex метрика`
 
 ### Резюме | CV :
-[Резюме RUS](https://www.evernote.com/shard/s577/sh/999bfc4c-6ffc-a5cc-a001-2c8b83cbd26d/ehBxolX4vCLD1SspgObwd3FEckOgccjPjNN-6NoETBmI-I27ZVCG9omfmg) | [Резюме @HeadHunter RUS](https://spb.hh.ru/resume/1523b2c7ff0b5dd6b80039ed1f3831676f7646)
+[Резюме RUS](https://www.evernote.com/shard/s577/sh/999bfc4c-6ffc-a5cc-a001-2c8b83cbd26d/ehBxolX4vCLD1SspgObwd3FEckOgccjPjNN-6NoETBmI-I27ZVCG9omfmg) <br> 
+[Резюме @HeadHunter RUS](https://spb.hh.ru/resume/1523b2c7ff0b5dd6b80039ed1f3831676f7646)
 
 ### Портфолио | Portfolio :
 [GitHub Portfolio](https://github.com/annapavlovads/DA_portfolio) <br>
