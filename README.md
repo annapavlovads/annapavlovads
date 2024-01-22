@@ -9,7 +9,7 @@
 - 📫 Контакты | Please contact me
   - E-mail: `m10tk@yandex.ru`
   - Mob./WhatsApp `+79219452013`
-  - [Telegram](https://t.me/AnnaPavlovaDS) `AnnaPavlovaDS`
+  - [Telegram](https://t.me/AnnaPavlovaDS) 
 
 ### Библиотеки и инструменты | Languages, libraries and tools :
 `python` `pandas` `scikit-learn` `catboost` `lightgbm` `sklearn` `plotly` `numpy` `scikit-learn` `keras` `pytorch`
