@@ -20,8 +20,8 @@
 [Аналитик данных RUS](https://www.evernote.com/shard/s577/sh/999bfc4c-6ffc-a5cc-a001-2c8b83cbd26d/ehBxolX4vCLD1SspgObwd3FEckOgccjPjNN-6NoETBmI-I27ZVCG9omfmg) | [Аналитик данных HeadHunter.ru RUS](https://spb.hh.ru/resume/1523b2c7ff0b5dd6b80039ed1f3831676f7646)
 
 ### Портфолио | Portfolio :
-[Data Analytics](https://github.com/annapavlovads/DA_portfolio) <br>
-[GIT.LAB page](https://git.lab.karpov.courses/an-pavlova/portfolio_da_ds)
+[Аналитика данных](https://github.com/annapavlovads/DA_portfolio) <br>
+[GIT.LAB](https://git.lab.karpov.courses/an-pavlova/portfolio_da_ds)
 
 ### Дипломы и сертификаты | Diplomas and certificates :
 [Yandex. Praktikum Data Science Certificate RUS](https://drive.google.com/file/d/14KGYoyjqFNbdTbnrFKWjXno6b6C6BwF7/view?usp=sharing) | [ENG](https://drive.google.com/file/d/1y492Yh2_KMLBz6OpsgWrbqJwZLqk7A7c/view?usp=sharing) <br>
