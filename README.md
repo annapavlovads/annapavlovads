@@ -18,7 +18,7 @@
 `yandex метрика` `app metrica` `iiko` `manzana`
 
 ### Резюме | CV :
-[Резюме RUS](https://www.evernote.com/shard/s577/sh/999bfc4c-6ffc-a5cc-a001-2c8b83cbd26d/ehBxolX4vCLD1SspgObwd3FEckOgccjPjNN-6NoETBmI-I27ZVCG9omfmg) <br> 
+[Резюме RUS]((https://github.com/annapavlovads/DA_portfolio/blob/main/cv/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20-%20%D0%90%D0%BD%D0%BD%D0%B0%20%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B0.md)<br> 
 [Резюме @HeadHunter RUS](https://spb.hh.ru/resume/1523b2c7ff0b5dd6b80039ed1f3831676f7646)
 
 ### Портфолио | Portfolio :
