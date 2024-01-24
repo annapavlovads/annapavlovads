@@ -14,7 +14,7 @@
 `yandex метрика` `app metrica` `iiko` `manzana`
 
 ### Резюме | CV :
-[Резюме RUS](https://github.com/annapavlovads/DA_portfolio/blob/main/cv/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20-%20%D0%90%D0%BD%D0%BD%D0%B0%20%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B2%D0%B0.md)<br> 
+[Резюме RUS](https://github.com/annapavlovads/DA_portfolio/blob/main/cv/cv_anna_pavlova_DA.md)<br> 
 [HeadHunter](https://spb.hh.ru/resume/1523b2c7ff0b5dd6b80039ed1f3831676f7646)
 
 ### Портфолио | Portfolio :
