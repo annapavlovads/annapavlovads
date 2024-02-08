@@ -19,14 +19,10 @@
 
 ### Портфолио | Portfolio :
 [GitHub](https://github.com/annapavlovads/DA_portfolio) <br>
-[GitLab Page](https://git.lab.karpov.courses/an-pavlova/portfolio_da_ds)
 
 ### Дипломы и сертификаты | Diplomas and certificates :
 [Yandex. Praktikum Data Science Certificate RUS](https://drive.google.com/file/d/14KGYoyjqFNbdTbnrFKWjXno6b6C6BwF7/view?usp=sharing) | [ENG](https://drive.google.com/file/d/1y492Yh2_KMLBz6OpsgWrbqJwZLqk7A7c/view?usp=sharing) <br>
 [Yandex.Praktikum Math Certificate ENG](https://drive.google.com/file/d/1u7n1LtuBNKsclhvaB0e--oGOUz8bry3B/view?usp=sharing)<br>
 [Karpov.Courses Сертификат (Аналитика данных) RUS](https://drive.google.com/file/d/1a9dKDEVsUSPcHWEGoP4KH4qLlIkSvObN/view?usp=sharing) | [ENG](https://drive.google.com/file/d/1oAmbDiimraaNaxu1Ps9wK2oobTOBzRrt/view?usp=sharing) <br>
 [Karpov.Courses Machine Learning Certificate RUS](https://drive.google.com/file/d/1OZ_Q6VyjClg9x69aRg2XTpcoq_EvdAt_/view?usp=share_link) | [ENG](https://drive.google.com/file/d/1OLVy3HchmdksYIUCDCAfsK1-bGq-EDbU/view?usp=share_link) <br>
-[Project Management - Проектное управление RUS](https://drive.google.com/file/d/1fKzhvjz1lktRzczGRNW_prxyZyI1R_vF/view?usp=sharing)<br>
-[Поколение Python - Курс для профессионалов RUS](https://drive.google.com/file/d/1dIXY94QBTeeHfxtqSI9zoGhvfYLI6RW1/view?usp=drive_link)<br>
-[Stepik Academy Certificates RUS](https://stepik.org/users/53844029/certificates)
 
