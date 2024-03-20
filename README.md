@@ -9,10 +9,10 @@
   - [Telegram](https://t.me/AnnaPavlovaDS) 
 
 ### Библиотеки и инструменты | Languages, libraries and tools :
-`python` `pandas` `scikit-learn` `catboost` `lightgbm` `sklearn` `plotly` `numpy` `scikit-learn` `keras` `pytorch`
-`seaborn` `jupyter notebook` `pycharm` `bash` `git` `postgresql` `sql` `mysql` `redash` `tableau` `excel` `clickhouse` 
-`linux` `superset` `gitlab ci/cd` `beautiful soup` `docker` `apache airflow` `ab-tests` `telegram-bot` `fast api` 
-`yandex метрика` `app metrica` `iiko` `manzana`
+`python` `pandas` `numpy` `catboost` `lightgbm` `sklearn` `plotly` `numpy` `plotly` `seaborn` 
+`bash` `git` `postgresql` `docker` `mlflow` `redash` `tableau` `apache superset` `clickhouse` 
+`linux` `gitlab ci/cd` `beautiful soup` `ab-tests` `telegram-bot` `fast api` 
+`yandex.метрика` `app.metrica` `iiko`
 
 ### Резюме | CV :
 [Резюме RUS](https://github.com/annapavlovads/DA_portfolio/blob/main/cv/cv_anna_pavlova_DA.md)<br> 
