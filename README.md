@@ -9,11 +9,11 @@
   - [Telegram](https://t.me/AnnaPavlovaDS) 
 
 ### Languages, libraries :
-`python` `pandas` `numpy` `catboost` `lightgbm` `sklearn` `plotly` `seaborn` `dash`
+`python` `pandas` `numpy` `catboost` `lightgbm` `sklearn` `plotly` `seaborn` `dash` <br>
 `mlflow` `beautiful soup` `telegram-bot` `fast api` `keras` `pytorch` `bash`
 
 ### Tools :
-`git` `postgresql` `docker` `mlflow` `apache airflow` `apache superset` `clickhouse` 
+`git` `postgresql` `docker` `mlflow` `apache airflow` `apache superset` `clickhouse` <br>
 `redash` `tableau` `gitlab ci/cd` `yandex.metrica` `app.metrica` `iiko`
 
 ### CV :
