@@ -2,7 +2,7 @@
 - I’m Master of Economics, educated in Data Science, Machine Learning and Big Data.
 - 🌱 I have also graduated from [Yandex.Praktikum](https://practicum.yandex.ru/profile/data-scientist) and Machine Learning course at [Karpov.Courses](https://karpov.courses/).
 - I use databases, BI tools and Machine Learning as my everyday tasks. 
-- I speak English (B2) and use it for technical reading and writing docs, Russian (Native) and Deutsch (A2)
+- I speak English (B2) and use it for technical reading and writing docs, Russian (Native)
 - 📫 Please contact me
   - E-mail: `m10tk@yandex.ru`
   - Mob./WhatsApp `+79219452013`
@@ -10,7 +10,7 @@
 
 ### Languages, libraries :
 `python` `pandas` `numpy` `catboost` `lightgbm` `sklearn` `plotly` `seaborn` `dash` <br>
-`mlflow` `beautiful soup` `telegram-bot` `fast api` `keras` `pytorch` `bash`
+`mlflow` `beautiful soup` `telegram-bot` `fast api` `keras` `pytorch` `bash` `java` `kotlin`
 
 ### Tools :
 `git` `postgresql` `docker` `mlflow` `apache airflow` `apache superset` `clickhouse` <br>
