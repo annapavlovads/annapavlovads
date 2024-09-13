@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anna. I've been Data Analyst since 2022. I'm located in Saint-Petersburg, Russia. 
-- I’m Master of Economics, educated in Data Science, Machine Learning and Big Data.
+- I’m Master of Economics, educated in Data Science, Machine Learning and Data Engineering.
 - 🌱 I have also graduated from [Yandex.Praktikum](https://practicum.yandex.ru/profile/data-scientist) and Machine Learning course at [Karpov.Courses](https://karpov.courses/).
 - I use databases, BI tools and Machine Learning as my everyday tasks. 
 - I speak English (B2) and use it for technical reading and writing docs, Russian (Native)
