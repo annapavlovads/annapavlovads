@@ -6,7 +6,7 @@
 - 📫 Please contact me
   - E-mail: `m10tk@yandex.ru`
   - Mob./WhatsApp `+79219452013`
-  - [Telegram](https://t.me/AnnaPavlovaDS) (`AnnaPavlovaDS`)
+  - [Telegram](https://t.me/gollevka) (`Anna Pavlova`)
 
 ### Languages, libraries :
 `python` `pandas` `numpy` `catboost` `lightgbm` `sklearn` `plotly` `seaborn` `dash` `flask` <br>
