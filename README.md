@@ -10,11 +10,11 @@
 
 ### Languages, libraries :
 `python` `pandas` `numpy` `catboost` `lightgbm` `sklearn` `plotly` `seaborn` `dash` `flask` <br>
-`mlflow` `beautiful soup` `fast api` `keras` `pytorch` `bash` `java` 
+`mlflow` `beautiful soup` `fast api` `keras` `pytorch` `bash` 
 
 ### Tools :
 `git` `postgresql` `docker` `mlflow` `apache airflow` `apache superset` `clickhouse` <br>
-`redash` `tableau` `gitlab ci/cd` `yandex.metrica` `app.metrica` `iiko` `yandex.cloud`
+`redash` `gitlab ci/cd` `app.metrica` `iiko` `yandex.cloud`
 
 ### CV :
 [Резюме RUS](https://github.com/annapavlovads/DA_portfolio/blob/main/cv/cv_anna_pavlova_DA.md)<br> 
