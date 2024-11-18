@@ -24,9 +24,9 @@
 [GitHub](https://github.com/annapavlovads/DA_portfolio) <br>
 
 ### Diplomas and certificates :
-[Yandex.Praktikum Data Science](https://drive.google.com/file/d/14KGYoyjqFNbdTbnrFKWjXno6b6C6BwF7/view?usp=sharing) | [ENG](https://drive.google.com/file/d/1y492Yh2_KMLBz6OpsgWrbqJwZLqk7A7c/view?usp=sharing) <br>
+[Yandex.Praktikum Data Science](https://drive.google.com/file/d/1y492Yh2_KMLBz6OpsgWrbqJwZLqk7A7c/view?usp=sharing) <br>
 [Yandex.Praktikum Math](https://drive.google.com/file/d/1u7n1LtuBNKsclhvaB0e--oGOUz8bry3B/view?usp=sharing)<br>
-[Karpov.Courses DA RUS](https://drive.google.com/file/d/1a9dKDEVsUSPcHWEGoP4KH4qLlIkSvObN/view?usp=sharing) | [ENG](https://drive.google.com/file/d/1oAmbDiimraaNaxu1Ps9wK2oobTOBzRrt/view?usp=sharing) <br>
-[Karpov.Courses Start ML](https://drive.google.com/file/d/1OZ_Q6VyjClg9x69aRg2XTpcoq_EvdAt_/view?usp=share_link) | [ENG](https://drive.google.com/file/d/1OLVy3HchmdksYIUCDCAfsK1-bGq-EDbU/view?usp=share_link) <br>
+[Karpov.Courses DA](https://drive.google.com/file/d/1oAmbDiimraaNaxu1Ps9wK2oobTOBzRrt/view?usp=sharing) <br>
+[Karpov.Courses Start ML](https://drive.google.com/file/d/1OLVy3HchmdksYIUCDCAfsK1-bGq-EDbU/view?usp=share_link) <br>
 [Yandex.Cloud - Инженер облачных сервисов](https://drive.google.com/file/d/1fot-w9bp7Qk4MbLJm7cyyBKRKic1uQdJ/view?usp=sharing)
-
+[Yandex.Praktikum - ML-Engineer](https://drive.google.com/file/d/1MlzoJR5INdWX6cYCATaUC5bTLIvNjS7r/view?usp=drive_link)
