@@ -15,7 +15,7 @@
 
 ### Tools :
 `git` `postgresql` `docker` `mlflow` `apache airflow` `apache superset` `clickhouse` <br>
-`redash` `gitlab ci/cd` `app.metrica` `iiko` `yandex.cloud`
+`ci/cd` `app.metrica` `iiko` `yandex.cloud` `ubuntu server` `rabbit mq` `tg bot`
 
 ### CV :
 [Резюме RUS](https://github.com/annapavlovads/DA_portfolio/blob/main/cv/cv_anna_pavlova_DA.md)<br> 
