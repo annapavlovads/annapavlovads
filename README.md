@@ -2,7 +2,8 @@
 - I’m Master of Economics, educated in `Data Science`, `Machine Learning` and `Data Engineering`.
 - I'm also keen on `Python Backend`, especially `Flask` 🤓
 - 🌱 I have also graduated from [Yandex.Praktikum](https://practicum.yandex.ru/profile/data-scientist) and Machine Learning course at [Karpov.Courses](https://karpov.courses/).
-- I use databases, BI tools and Machine Learning as my everyday tasks. 
+- I use databases, BI tools and Machine Learning as my everyday tasks.
+- I'm also a devops on all my projects as I don't havy any nearby.
 - I speak English (B2) and use it for technical reading and writing docs, Russian (Native)
 - 📫 Please contact me
   - E-mail: `m10tk@yandex.ru`
