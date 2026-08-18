@@ -15,9 +15,8 @@
 `docker compose` `kubernetes` `ci / cd` `aiogram` `fast api` `dbt`
 
 ### Skills 
-`project management` `team management` `digital trasformation` 
-`team development` `technical leadership`
-`English C1` `Spanish A2`
+`project management` `digital trasformation` `team development` `team management` <br>
+`technical leadership` `data infrastructure` `system design` `English C1` `Spanish A2`
 
 ### Extra courses 
 [Yandex.Praktikum Data Science](https://drive.google.com/file/d/1y492Yh2_KMLBz6OpsgWrbqJwZLqk7A7c/view?usp=sharing) <br>
