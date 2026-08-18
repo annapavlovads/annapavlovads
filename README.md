@@ -12,11 +12,12 @@
 ### Tech Stack
 `python` `pandas` `numpy` `seaborn` `python flask` `fast api` `keras` `bash` <br>
 `git` `postgresql` `docker` `clickhouse` `apache airflow` `apache superset` <br>
-`docker compose` `kubernetes` `ci / cd` `aiogram` `fast api` `dbt`
+`docker compose` `kubernetes` `ci/cd` `aiogram` `ETL/ELT` `dbt` 
 
 ### Skills 
 `project management` `digital trasformation` `team development` `team management` <br>
-`technical leadership` `data infrastructure` `system design` `English C1` `Spanish A2`
+`technical leadership` `data infrastructure` `system design` `data quality management` <br>
+`it strategy` `1C ERP implementation` `English C1` `Spanish A2`
 
 ### Extra courses 
 [Yandex.Praktikum Data Science](https://drive.google.com/file/d/1y492Yh2_KMLBz6OpsgWrbqJwZLqk7A7c/view?usp=sharing) <br>
