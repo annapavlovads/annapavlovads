@@ -1,6 +1,9 @@
-### Master of Economics, DA Team Lead, Senior Data Analyst, Senior Clickhouse Data Engineer
+### Master of Economics
+- since 2007
+### Senior Data Analyst, Senior Clickhouse Data Engineer
 - since 2022
-
+### DA Team Lead
+- since 2025
 ### CDTO 
 - since 2026
 
