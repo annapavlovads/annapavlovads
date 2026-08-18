@@ -1,10 +1,11 @@
-### Master of Economics
+### BIO
+##### Master of Economics
 - since 2007
-### Senior Data Analyst, Senior Clickhouse Data Engineer
+##### Senior Data Analyst, Senior Clickhouse Data Engineer
 - since 2022
-### DA Team Lead
+##### DA Team Lead
 - since 2025
-### CDTO 
+##### CDTO 
 - since 2026
 
 ### 📫 Contacts
